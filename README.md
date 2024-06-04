@@ -17,7 +17,7 @@
 * [Description](#description)
 * [Dependencies and installation](#dependencies-and-installation)
 * [Examples and Tutorials](#examples-and-tutorials)
-* [Using WeiDMD](#using-weidmd)
+* [Using WeiGPS](#using-weigps)
 * [References](#references)
 
 ## Description
